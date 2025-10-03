@@ -1,0 +1,12 @@
+************* Module src.calculator
+src/calculator.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+src/calculator.py:30:0: C0303: Trailing whitespace (trailing-whitespace)
+src/calculator.py:36:16: C0303: Trailing whitespace (trailing-whitespace)
+src/calculator.py:40:17: C0303: Trailing whitespace (trailing-whitespace)
+src/calculator.py:42:19: C0303: Trailing whitespace (trailing-whitespace)
+src/calculator.py:46:13: C0303: Trailing whitespace (trailing-whitespace)
+src/calculator.py:47:75: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 7.94/10 (previous run: 7.94/10, +0.00)
+
